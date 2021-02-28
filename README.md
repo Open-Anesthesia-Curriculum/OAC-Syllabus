@@ -1,6 +1,10 @@
-# OAC-Syllabus [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-The learning plan for the Open Anesthesia Curriculum
+<div align="center">
+  <span align="center"><img width="128" height="128" class="center" src="https://user-images.githubusercontent.com/786092/109433185-157a4500-79dd-11eb-9c57-3b7a5fa42fdd.png" alt="Icon"></span>
+  <h1 align="center">OAC-Syllabus <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg"></h1>
+  <h3 align="center">The learning plan for the Open Anesthesia Curriculum</h3>
+<div align="center">
 
+</div>
 
 
 ------------------
